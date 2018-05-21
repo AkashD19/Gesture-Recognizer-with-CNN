@@ -1,1 +1,1 @@
-Implementing Convolutional Neural Networks to recognize hand gestures
+Implementing Convolutional Neural Networks to recognize hand gestures.
